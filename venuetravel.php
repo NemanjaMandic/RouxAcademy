@@ -22,7 +22,7 @@
    <section class="container">
      <div class="content row">
        <section class="main col col-lg-8">
-         
+         <?php include 'includes/header.php'; ?>
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
          
