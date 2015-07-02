@@ -18,7 +18,7 @@
     <![endif]-->
   </head>
   <body id="home">
-   
+   -------------------- stao kod 2.Scaffolding - Adding footer breadcrumbs -----------------
    <section class="container">
      <div class="content row">
        <section class="main col col-lg-8">
