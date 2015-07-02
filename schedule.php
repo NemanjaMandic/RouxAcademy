@@ -30,6 +30,7 @@
      </div><!--END content row-->
    </section><!--END container-->
 
+    <?php include 'includes/footer.php'; ?>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Latest compiled and minified JavaScript -->

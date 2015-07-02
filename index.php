@@ -18,18 +18,24 @@
     <![endif]-->
   </head>
   <body id="home">
-   -------------------- stao kod 2.Scaffolding - Adding footer breadcrumbs -----------------
+  
    <section class="container">
      <div class="content row">
        <section class="main col col-lg-8">
+
           <?php include 'includes/header.php'; ?>
+
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
          
        </section><!--END sidebar col col-lg-4-->
      </div><!--END content row-->
+    
+     
+   
    </section><!--END container-->
 
+     <?php include 'includes/footer.php'; ?>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Latest compiled and minified JavaScript -->

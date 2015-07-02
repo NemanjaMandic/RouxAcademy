@@ -28,6 +28,7 @@
          
        </section><!--END sidebar col col-lg-4-->
      </div><!--END content row-->
+      <?php include 'includes/footer.php'; ?>
    </section><!--END container-->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
