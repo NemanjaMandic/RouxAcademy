@@ -21,10 +21,14 @@
   
    <section class="container">
      <div class="content row">
+
+      <?php include 'includes/header.php'; ?>
+      <?php include 'includes/snipet-carousel.php'; ?>
+
        <section class="main col col-lg-8">
-
-          <?php include 'includes/header.php'; ?>
-
+            
+            <?php include 'includes/article-intro.php'; ?>
+  
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
          
