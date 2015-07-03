@@ -29,6 +29,7 @@
             
             <?php include 'includes/article-intro.php'; ?>
             <?php include 'includes/article-abouttheartists.php'; ?>
+            <?php include 'includes/article-aboutevenue.php'; ?>
   
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
