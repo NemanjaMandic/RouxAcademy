@@ -34,6 +34,8 @@
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
          
+          <?php include 'includes/aside-register.php'; ?>
+
        </section><!--END sidebar col col-lg-4-->
      </div><!--END content row-->
     
