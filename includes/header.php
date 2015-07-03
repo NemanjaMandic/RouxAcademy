@@ -31,6 +31,14 @@
 					<li><a href="register.php">Register</a></li>
 				</ul><!--END nav navbar-nav-->
 			</nav><!--END navbar navbar-fixed-top"-->
+
+			<!-- Modal -->
+			<section id="modal" class="modal fade">
+				<div class="modal-body">
+					<img id="modalimage" src="" alt="Modal Photo">
+				</div>
+			</section><!--END Modal -->
+
 		</header><!--END clearfix-->
 	</div><!--END col-lg-12-->
 </div><!--END content row-->
