@@ -28,6 +28,7 @@
        <section class="main col col-lg-8">
             
             <?php include 'includes/article-intro.php'; ?>
+            <?php include 'includes/article-abouttheartists.php'; ?>
   
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">

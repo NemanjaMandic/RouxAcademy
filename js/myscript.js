@@ -13,4 +13,6 @@ $(document).ready(function(){
 	}, function(){
 		$('.dropdown-menu', this).fadeOut('fast');
 	});
-});
+
+	$("[data-toggle='tooltip']").tooltip({animation: true});
+}); //jQuery is loaded
