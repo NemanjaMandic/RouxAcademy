@@ -17,25 +17,25 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body id="artists">
+  <body id="artists" data-spy="scroll" data-target=".scrollspy">
    
    <section class="container">
      <div class="content row">
 
       <?php include 'includes/header.php'; ?>
-      <?php include 'includes/snipet-carousel.php'; ?>
+     
 
        <section class="main col col-lg-8">
             
-            <?php include 'includes/article-intro.php'; ?>
-            <?php include 'includes/article-abouttheartists.php'; ?>
-            <?php include 'includes/article-aboutevenue.php'; ?>
+            <?php include 'includes/article-artistlist.php'; ?>
+            
   
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
          
            <?php include 'includes/aside-register.php'; ?>
            <?php include 'includes/aside-lastyear.php'; ?>
+           
            <?php include 'includes/aside-accordion.php'; ?>
 
        </section><!--END sidebar col col-lg-4-->

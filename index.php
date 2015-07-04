@@ -19,6 +19,7 @@
   </head>
   <body id="home">
  
+ ------------------------------------ 5.Additional pages Enhancing responsive form layouts ----------------
    <section class="container">
      <div class="content row">
 
