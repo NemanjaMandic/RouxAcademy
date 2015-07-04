@@ -28,4 +28,8 @@ $(document).ready(function(){
 			$('#modal').modal('hide');
 		});
 	});
+
+	//Activate schedule tabs
+	var hash = window.location.hash;
+	hash && $('ul.nav a[href="' + hash + '"]').tab('show');
 }); //jQuery is loaded

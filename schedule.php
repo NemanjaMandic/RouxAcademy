@@ -29,16 +29,15 @@
 
        <section class="main col col-lg-8">
             
-            <?php include 'includes/article-intro.php'; ?>
-            <?php include 'includes/article-abouttheartists.php'; ?>
-            <?php include 'includes/article-aboutevenue.php'; ?>
+            <?php include 'includes/article-schedule.php'; ?>
+           
   
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
          
            <?php include 'includes/aside-register.php'; ?>
            <?php include 'includes/aside-lastyear.php'; ?>
-           <?php include 'includes/aside-accordion.php'; ?>
+           <?php include 'includes/aside-abouttheartists.php'; ?>
 
        </section><!--END sidebar col col-lg-4-->
      </div><!--END content row-->
