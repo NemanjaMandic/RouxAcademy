@@ -21,13 +21,28 @@
    
    <section class="container">
      <div class="content row">
+
+      <?php include 'includes/header.php'; ?>
+      
+
        <section class="main col col-lg-8">
-          <?php include 'includes/header.php'; ?>
+            
+            <?php include 'includes/article-registrationform.php'; ?>
+            
+  
        </section><!--END main col col-lg-8-->
        <section class="sidebar col col-lg-4">
          
+           <?php include 'includes/aside-register.php'; ?>
+           <?php include 'includes/aside-lastyear.php'; ?>
+           <?php include 'includes/aside-abouttheartists.php'; ?>
+           <?php include 'includes/aside-accordion.php'; ?>
+
        </section><!--END sidebar col col-lg-4-->
      </div><!--END content row-->
+    
+     
+   
    </section><!--END container-->
 
    <?php include 'includes/footer.php'; ?>
