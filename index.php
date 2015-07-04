@@ -18,7 +18,7 @@
     <![endif]-->
   </head>
   <body id="home">
-  
+ 
    <section class="container">
      <div class="content row">
 
@@ -36,6 +36,7 @@
          
            <?php include 'includes/aside-register.php'; ?>
            <?php include 'includes/aside-lastyear.php'; ?>
+           <?php include 'includes/aside-accordion.php'; ?>
 
        </section><!--END sidebar col col-lg-4-->
      </div><!--END content row-->
